@@ -1,13 +1,13 @@
 package questao13;
 
 public class Requisicao {
-    private Formato formato;
+  private Formato formato;
 
-    public Requisicao(Formato formato) {
-        this.formato = formato;
-    }
+  public Requisicao(Formato formato) {
+    this.formato = formato;
+  }
 
-    public Formato getFormato() {
-        return formato;
-    }
+  public Formato getFormato() {
+    return formato;
+  }
 }

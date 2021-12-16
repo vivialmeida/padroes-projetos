@@ -2,7 +2,7 @@ package questao8;
 
 import questao7e8.Orcamento;
 
-public class DescontoOitoPorcento implements DescontoPorcentagem{
+public class DescontoOitoPorcento implements DescontoPorcentagem {
 
   DescontoPorcentagem proximoDesconto;
 
@@ -12,9 +12,9 @@ public class DescontoOitoPorcento implements DescontoPorcentagem{
 
 
   public Double calcula(Orcamento orcamento) {
-    if (orcamento.getValor() > 3000.00){
+    if (orcamento.getValor() > 3000.00) {
       return (orcamento.getValor() * 0.08) + 30.00;
-    }else {
+    } else {
       throw new RuntimeException("Valor inválido!");
     }
   }
