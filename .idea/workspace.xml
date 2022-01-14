@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="509206c2-a8d0-41a0-9ab2-a1142c042f5e" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/042570d6769fe708a99beb6d590f22f7b94d62ab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0a0eabb7865f307401aeec9a81e5c932c93b2deb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/297a44858f3a773200d63a93def5897303275260" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67b411a3e5fe1798af663ee6dfc6542847e526ea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74d05a47f999ee90bcabd967c2ef378fe7d41d99" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a44176b40d62abcae5f4d322eeb729b75e5b7a7f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b81e53aefad00a6e97ac34834a5e233726364e40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bd4dd0bd8f95f967aa7dd35dd31a93d74b53d1d8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc1ee8f2f0e6cb9fee419582fe47ed580dc6bbfa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f99ba3089e0a1505f6e8334b1ec56ff5fbf3a42a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd5f4ef896bd667d3243d8c2b5dc2d9ba5cf5300" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv3/questao3/BaconDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv3/questao3/CondimentoDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv3/questao3/CreamCheeseDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv3/questao3/Mussarela.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv3/questao3/OreganoDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv3/questao3/Pepperoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv3/questao3/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv3/questao3/Pizzaiolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv3/questao3/TomateDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/padroes-software-etapa1-atv2.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/atv3/questao3/BaconDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/atv3/questao3/CondimentoDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/atv3/questao3/CreamCheeseDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/atv3/questao3/Mussarela.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/atv3/questao3/OreganoDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/atv3/questao3/Pepperoni.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/atv3/questao3/Pizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/atv3/questao3/Pizzaiolo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/atv3/questao3/TomateDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao11/Banco.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao11/Conta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao11/Relatorio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao11/RelatorioComplexo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao11/RelatorioSimples.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao11/Teste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao13/Conta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao13/Formatador.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao13/FormatadorCSV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao13/FormatadorJSON.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao13/FormatadorXML.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao13/Formato.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao13/GerenciadorDeRequisicoes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao13/Requisicao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao13/Teste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao7e8/CalculadorDeImposto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao7e8/Icms.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao7e8/Imposto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao7e8/ImpostoCondicional.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao7e8/Iss.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao7e8/Orcamento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao7e8/Teste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao8/DescontoCincoPorcento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao8/DescontoOitoPorcento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao8/DescontoPorcentagem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/questao8/DescontoSetePorcento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/padroes-software-etapa1-atv2-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atv3/questao1/TesteEmissorDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atv3/questao1/TesteEmissorDecorator.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+  </component>
+  <component name="ProjectId" id="226hq0rVxL1ly7biLAKuvduQCuM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.32446134" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="atv3.questao3" />
+      <recent name="questao8" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Pizzaiolo">
+    <configuration name="Pizzaiolo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atv3.questao3.Pizzaiolo" />
+      <module name="padroes-software-etapa1-atv2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="atv3.questao3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questao11.Teste" />
+      <module name="padroes-software-etapa1-atv2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="questao11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questao13.Teste" />
+      <module name="padroes-software-etapa1-atv2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="questao13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questao7e8.Teste" />
+      <module name="padroes-software-etapa1-atv2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="questao8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questao11.Teste" />
+      <module name="padroes-software-etapa1-atv2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="questao11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Pizzaiolo" />
+        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.Teste (2)" />
+        <item itemvalue="Application.Teste (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="509206c2-a8d0-41a0-9ab2-a1142c042f5e" name="Changes" comment="" />
+      <created>1639164137889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639164137889</updated>
+      <workItem from="1639663801441" duration="1730000" />
+      <workItem from="1639667375479" duration="7458000" />
+      <workItem from="1639747489547" duration="323000" />
+      <workItem from="1642185312569" duration="6408000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
