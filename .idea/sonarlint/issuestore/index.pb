@@ -1,0 +1,25 @@
+
+_
+/src/main/java/questao8/DescontoPorcentagem.java,7/4/74d05a47f999ee90bcabd967c2ef378fe7d41d99
+`
+0src/main/java/questao8/DescontoSetePorcento.java,0/4/042570d6769fe708a99beb6d590f22f7b94d62ab
+`
+0src/main/java/questao8/DescontoOitoPorcento.java,2/9/297a44858f3a773200d63a93def5897303275260
+R
+"src/main/java/questao7e8/Icms.java,a/4/a44176b40d62abcae5f4d322eeb729b75e5b7a7f
+U
+%src/main/java/questao7e8/Imposto.java,0/a/0a0eabb7865f307401aeec9a81e5c932c93b2deb
+W
+'src/main/java/questao7e8/Orcamento.java,b/d/bd4dd0bd8f95f967aa7dd35dd31a93d74b53d1d8
+`
+0src/main/java/questao7e8/ImpostoCondicional.java,6/7/67b411a3e5fe1798af663ee6dfc6542847e526ea
+a
+1src/main/java/questao7e8/CalculadorDeImposto.java,f/9/f99ba3089e0a1505f6e8334b1ec56ff5fbf3a42a
+a
+1src/main/java/questao8/DescontoCincoPorcento.java,c/c/cc1ee8f2f0e6cb9fee419582fe47ed580dc6bbfa
+S
+#src/main/java/questao7e8/Teste.java,b/8/b81e53aefad00a6e97ac34834a5e233726364e40
+P
+ padroes-software-etapa1-atv2.iml,f/d/fd5f4ef896bd667d3243d8c2b5dc2d9ba5cf5300
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec

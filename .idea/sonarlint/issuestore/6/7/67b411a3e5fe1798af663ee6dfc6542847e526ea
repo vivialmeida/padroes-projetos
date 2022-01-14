@@ -1,0 +1,6 @@
+
+usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä“°Ùúÿÿÿÿ
+osquid:HiddenFieldCheck"HRename "descontoOitoPorcento" which hides the field declared at line 10.(ÛØ“Û8Á Œ Ü/
+osquid:HiddenFieldCheck"HRename "descontoSetePorcento" which hides the field declared at line 11.(ËŒ¦³8Á Œ Ü/
+psquid:HiddenFieldCheck"IRename "descontoCincoPorcento" which hides the field declared at line 12.(‡÷ºƒ8Á Œ Ü/
+Vsquid:S1481":Remove this unused "descontoCincoPorcento" local variable.(‡÷ºƒ8Á Œ Ü/
