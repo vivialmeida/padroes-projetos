@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="509206c2-a8d0-41a0-9ab2-a1142c042f5e" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv4/questao5/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv4/questao5/TesteLivro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atv3/questao2/Numero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv3/questao2/Numero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atv3/questao2/NumeroUm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv3/questao2/NumeroUm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atv3/questao2/NumeroUmDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv3/questao2/NumeroUmDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atv3/questao2/NumeroUmDecoratorComChaves.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv3/questao2/ChavesDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atv3/questao2/NumeroUmDecoratorComColchetes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv3/questao2/ColchetesDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atv3/questao2/NumeroUmDecoratorComParenteses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv3/questao2/ParentesesDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atv3/questao2/TesteNumeroUmDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv3/questao2/TesteNumeroUmDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/atv3/questao2/Numero.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atv3/questao2/Numero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/atv3/questao2/NumeroUm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atv3/questao2/NumeroUm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/atv3/questao2/NumeroUmDecoratorComChaves.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/atv3/questao2/NumeroUmDecoratorComColchetes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/atv3/questao2/NumeroUmDecoratorComParenteses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/atv3/questao2/TesteNumeroUmDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atv3/questao2/TesteNumeroUmDecorator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/atv3/questao3/Pizzaiolo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atv3/questao3/Pizzaiolo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +40,9 @@
     <option name="jreName" value="17" />
   </component>
   <component name="ProjectId" id="226hq0rVxL1ly7biLAKuvduQCuM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -89,26 +78,13 @@
       <command value="mvn clean install" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.TesteNumeroUmDecorator">
+  <component name="RunManager" selected="Application.TesteLivro">
     <configuration name="Pizzaiolo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="atv3.questao3.Pizzaiolo" />
       <module name="padroes-software-etapa1-atv2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="atv3.questao3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Teste (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="questao11.Teste" />
-      <module name="padroes-software-etapa1-atv2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="questao11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,6 +111,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="questao8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteLivro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atv4.questao5.TesteLivro" />
+      <module name="padroes-software-etapa1-atv2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="atv4.questao5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteLivro" />
         <item itemvalue="Application.TesteNumeroUmDecorator" />
         <item itemvalue="Application.Pizzaiolo" />
         <item itemvalue="Application.Teste" />
         <item itemvalue="Application.Teste (2)" />
-        <item itemvalue="Application.Teste (1)" />
       </list>
     </recent_temporary>
   </component>
