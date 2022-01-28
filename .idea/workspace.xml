@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="509206c2-a8d0-41a0-9ab2-a1142c042f5e" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv4/questao5/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv4/questao5/TesteLivro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv5/questao3/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv5/questao3/factory/SanduicheCGFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv5/questao3/factory/SanduicheFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv5/questao3/factory/SanduicheJPFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv5/questao3/factory/SanduicheRTFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv5/questao3/product/Sanduiche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv5/questao3/product/SanduicheCG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv5/questao3/product/SanduicheJP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv5/questao3/product/SanduicheRT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,13 +85,13 @@
       <command value="mvn clean install" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.TesteLivro">
-    <configuration name="Pizzaiolo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atv3.questao3.Pizzaiolo" />
+  <component name="RunManager" selected="Application.Cliente">
+    <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atv5.questao3.Cliente" />
       <module name="padroes-software-etapa1-atv2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="atv3.questao3.*" />
+          <option name="PATTERN" value="atv5.questao3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teste (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="questao13.Teste" />
+    <configuration name="Pizzaiolo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atv3.questao3.Pizzaiolo" />
       <module name="padroes-software-etapa1-atv2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="questao13.*" />
+          <option name="PATTERN" value="atv3.questao3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cliente" />
         <item itemvalue="Application.TesteLivro" />
         <item itemvalue="Application.TesteNumeroUmDecorator" />
         <item itemvalue="Application.Pizzaiolo" />
         <item itemvalue="Application.Teste" />
-        <item itemvalue="Application.Teste (2)" />
       </list>
     </recent_temporary>
   </component>
