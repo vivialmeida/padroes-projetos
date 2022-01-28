@@ -4,7 +4,6 @@ import atv5.questao3.factory.SanduicheCGFactory;
 import atv5.questao3.factory.SanduicheJPFactory;
 import atv5.questao3.factory.SanduicheRTFactory;
 import atv5.questao3.product.Sanduiche;
-import atv5.questao3.product.SanduicheJP;
 
 public class Cliente {
     public static void main(String[] args) {
