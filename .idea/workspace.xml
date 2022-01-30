@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="509206c2-a8d0-41a0-9ab2-a1142c042f5e" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv5/questao3/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv5/questao3/factory/SanduicheCGFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv5/questao3/factory/SanduicheFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv5/questao3/factory/SanduicheJPFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv5/questao3/factory/SanduicheRTFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv5/questao3/product/Sanduiche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv5/questao3/product/SanduicheCG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv5/questao3/product/SanduicheJP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv5/questao3/product/SanduicheRT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atv3/questao2/ChavesDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv3/questao2/ChavesDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atv3/questao2/ColchetesDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv3/questao2/ColchetesDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atv3/questao2/Numero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv3/questao2/Numero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atv3/questao2/NumeroUm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv3/questao2/NumeroUm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atv3/questao2/NumeroUmDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv3/questao2/NumeroUmDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atv3/questao2/ParentesesDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv3/questao2/ParentesesDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atv3/questao2/TesteNumeroUmDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv3/questao2/TesteNumeroUmDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atv5/questao3/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atv5/questao3/Cliente.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,7 @@
       <command value="mvn clean install" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Cliente">
+  <component name="RunManager" selected="Application.TesteNumeroUmDecorator">
     <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="atv5.questao3.Cliente" />
       <module name="padroes-software-etapa1-atv2" />
@@ -166,9 +165,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteNumeroUmDecorator" />
         <item itemvalue="Application.Cliente" />
         <item itemvalue="Application.TesteLivro" />
-        <item itemvalue="Application.TesteNumeroUmDecorator" />
         <item itemvalue="Application.Pizzaiolo" />
         <item itemvalue="Application.Teste" />
       </list>

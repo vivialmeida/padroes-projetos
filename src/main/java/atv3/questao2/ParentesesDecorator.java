@@ -7,9 +7,8 @@ public class ParentesesDecorator extends NumeroUmDecorator{
     }
 
     @Override
-    public void imprime(String valor) {
-        String decoratedNumeroUm = colocaParenteses(valor);
-        this.getNumero().imprime(decoratedNumeroUm);
+    public String imprime() {
+        return colocaParenteses(this.getNumero().imprime());
     }
 
     private String colocaParenteses(String texto){
