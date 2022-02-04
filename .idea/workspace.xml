@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="509206c2-a8d0-41a0-9ab2-a1142c042f5e" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv6/questao2/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv6/questao2/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv6/questao2/ContaNegativa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv6/questao2/ContaPositiva.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv6/questao2/EstadoDaConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/Avaliado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/Criado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/Deferido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/EmAvaliacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/EmRecurso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/EstadoDoProcesso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/Fechado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/Gestacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/Indeferido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/Processo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,6 +126,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questao11.Teste" />
+      <module name="padroes-software-etapa1-atv2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="questao11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TesteLivro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="atv4.questao5.TesteLivro" />
       <module name="padroes-software-etapa1-atv2" />
@@ -140,19 +158,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="atv3.questao2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="questao11.Teste" />
-      <module name="padroes-software-etapa1-atv2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="questao11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
