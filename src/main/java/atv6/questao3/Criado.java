@@ -2,9 +2,7 @@ package atv6.questao3;
 
 public class Criado implements EstadoDoProcesso {
     @Override
-    public void validar(Processo processo) {
-        throw new RuntimeException("Processo Criado nao pode ser validado");
-    }
+    public void validar(Processo processo) { throw new RuntimeException("Processo Criado nao pode ser validado"); }
 
     @Override
     public void designar(Processo processo) {
@@ -27,7 +25,5 @@ public class Criado implements EstadoDoProcesso {
     }
 
     @Override
-    public void prazoLegal(Processo processo) {
-        throw new RuntimeException("Processo Criado nao pode ser prazo legal");
-    }
+    public void transcorrerPrazoLegal(Processo processo) { throw new RuntimeException("Processo Criado nao pode ser fechado"); }
 }

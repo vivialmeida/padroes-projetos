@@ -6,5 +6,5 @@ public interface EstadoDoProcesso {
     void cancelar(Processo processo);
     void deferir(Processo processo);
     void indeferir(Processo processo);
-    void prazoLegal(Processo processo);
+    void transcorrerPrazoLegal(Processo processo);
 }

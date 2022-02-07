@@ -4,7 +4,7 @@ public class Processo {
     EstadoDoProcesso estado;
 
     public Processo() {
-        estado = new Gestacao();
+        estado = new EmGestacao();
     }
 
     public void validar(){
@@ -19,7 +19,11 @@ public class Processo {
     public void deferir(){
         estado.deferir(this);
     }
-    public void prazoLegal(){
-        estado.prazoLegal(this);
+    public void indeferir() {estado.indeferir(this);}
+    public void transcorrerPrazoLegal(){
+        estado.transcorrerPrazoLegal(this);
     }
+
+    @Override
+    public String toString() { return "Processo{" + "estado=" + estado + '}'; }
 }
