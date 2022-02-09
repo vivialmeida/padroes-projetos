@@ -7,12 +7,11 @@ public class ColchetesDecorator extends NumeroUmDecorator{
     }
 
     @Override
-    public void imprime(String valor) {
-        String decoratedNumeroUm = colocaColchetes(valor);
-        this.getNumero().imprime(decoratedNumeroUm);
+    public String imprime() {
+        return colocaChaves(this.getNumero().imprime());
     }
 
-    private String colocaColchetes(String texto){
+    private String colocaChaves(String texto){
         StringBuilder sb = new StringBuilder(texto);
         return sb.insert(0,"[").append("]").toString();
     }

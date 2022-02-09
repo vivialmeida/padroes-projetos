@@ -7,9 +7,8 @@ public class ChavesDecorator extends NumeroUmDecorator{
     }
 
     @Override
-    public void imprime(String valor) {
-        String decoratedNumeroUm = colocaChaves(valor);
-        this.getNumero().imprime(decoratedNumeroUm);
+    public String imprime() {
+        return colocaChaves(this.getNumero().imprime());
     }
 
     private String colocaChaves(String valor){

@@ -7,7 +7,7 @@ public abstract class NumeroUmDecorator implements Numero {
         this.numero = numero;
     }
 
-    public abstract void imprime(String valor);
+    public abstract String imprime();
 
     public Numero getNumero() {
         return numero;
