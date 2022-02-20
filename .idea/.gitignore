@@ -3,3 +3,7 @@
 /workspace.xm
 /libraries
 .idea/
+target/
+sonarlint/
+
+

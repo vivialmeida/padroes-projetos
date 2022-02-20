@@ -4,21 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="509206c2-a8d0-41a0-9ab2-a1142c042f5e" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/EmGestacao.java" afterDir="false" />
+    <list default="true" id="509206c2-a8d0-41a0-9ab2-a1142c042f5e" name="Changes" comment=" ajuste conflito">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atv6/questao3/Avaliado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/Avaliado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atv6/questao3/Criado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/Criado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atv6/questao3/Deferido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/Deferido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atv6/questao3/EmAvaliacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/EmAvaliacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atv6/questao3/EmRecurso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/EmRecurso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atv6/questao3/EstadoDoProcesso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/EstadoDoProcesso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atv6/questao3/Fechado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/Fechado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atv6/questao3/Gestacao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atv6/questao3/Indeferido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/Indeferido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atv6/questao3/Processo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atv6/questao3/Processo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atv6/questao3/Criado.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atv6/questao3/Criado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atv6/questao3/EmAvaliacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atv6/questao3/EmAvaliacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atv6/questao3/EmGestacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atv6/questao3/EmGestacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/atv6/questao3/Fechado.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atv6/questao3/Fechado.class" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +59,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/atv7" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -82,6 +77,9 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="atv3.questao3" />
       <recent name="questao8" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/atv7" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -141,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteLivro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atv4.questao5.TesteLivro" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atv7.main.Main" />
       <module name="padroes-software-etapa1-atv2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="atv4.questao5.*" />
+          <option name="PATTERN" value="atv7.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,10 +168,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.App" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Cliente (1)" />
         <item itemvalue="Application.TesteNumeroUmDecorator" />
         <item itemvalue="Application.Cliente" />
-        <item itemvalue="Application.TesteLivro" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +190,19 @@
       <workItem from="1639667375479" duration="7458000" />
       <workItem from="1639747489547" duration="323000" />
       <workItem from="1642185312569" duration="6408000" />
+      <workItem from="1644410768776" duration="5318000" />
+      <workItem from="1645019546883" duration="1281000" />
+      <workItem from="1645106835800" duration="1253000" />
+      <workItem from="1645392128727" duration="493000" />
     </task>
+    <task id="LOCAL-00001" summary="add padrao factory">
+      <created>1644417360877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644417360877</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,5 +220,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" ajuste conflito" />
+    <MESSAGE value="add padrao factory" />
+    <option name="LAST_COMMIT_MESSAGE" value="add padrao factory" />
   </component>
 </project>
