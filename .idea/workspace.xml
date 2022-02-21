@@ -5,80 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="509206c2-a8d0-41a0-9ab2-a1142c042f5e" name="Changes" comment="add singleton">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv8/questao1/Acao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv8/questao1/AcaoObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv8/questao1/Corretora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv8/questao1/TestaObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv8/questao2/BingoCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv8/questao2/BingoCardObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv8/questao2/BingoSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv8/questao2/BingoSystemApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv9/questao2/Aplicacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv9/questao2/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv9/questao3/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv9/questao3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv9/questao3/SomadorAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv9/questao3/SomadorEsperado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv9/questao3/SomadorExistente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atv7/data/Data.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atv7/data/DataBrasil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atv7/data/DataEUA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atv7/factories/LocalidadeAbstractFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atv7/factories/LocalidadeBrasil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atv7/factories/LocalidadeEUA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atv7/main/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atv7/moeda/Moeda.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atv7/moeda/MoedaBrasil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atv7/moeda/MoedaUSA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atv8/questao1/Acao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atv8/questao1/AcaoObserver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atv8/questao1/Corretora.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atv8/questao1/TestaObserver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atv8/questao2/BingoCard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atv8/questao2/BingoCardObserver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atv8/questao2/BingoSystem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/atv8/questao2/BingoSystemApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv9/questao4/AplicacaoProdutoQuimico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv9/questao4/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv9/questao4/ElevacaoTemperaturaAmbiente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv9/questao4/Experimento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv9/questao4/Robo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/padroes-software-etapa1-atv2.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/atv6/questao3/Criado.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atv6/questao3/Criado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/atv6/questao3/EmAvaliacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atv6/questao3/EmAvaliacao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/atv6/questao3/EmGestacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atv6/questao3/EmGestacao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/atv6/questao3/Fechado.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/atv6/questao3/Fechado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao11/Banco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao11/Conta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao11/Relatorio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao11/RelatorioComplexo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao11/RelatorioSimples.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao11/Teste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao13/Conta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao13/Formatador.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao13/FormatadorCSV.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao13/FormatadorJSON.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao13/FormatadorXML.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao13/Formato.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao13/GerenciadorDeRequisicoes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao13/Requisicao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao13/Teste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao7e8/CalculadorDeImposto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao7e8/Icms.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao7e8/Imposto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao7e8/ImpostoCondicional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao7e8/Iss.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao7e8/Orcamento.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao7e8/Teste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao8/DescontoCincoPorcento.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao8/DescontoOitoPorcento.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao8/DescontoPorcentagem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/questao8/DescontoSetePorcento.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/padroes-software-etapa1-atv2-1.0-SNAPSHOT.jar" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,18 +80,19 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="atv9.questao4" />
+      <recent name="atv8.questao2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/atv7" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="atv3.questao3" />
       <recent name="questao8" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="atv8.questao2" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -166,25 +100,26 @@
       <command value="mvn clean install" />
     </option>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.App (1)">
     <configuration name="Aplicacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="atv9.questao2.Aplicacao" />
       <module name="padroes-software-etapa1-atv2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="atv9.questao2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atv9.questao4.App" />
+      <module name="padroes-software-etapa1-atv2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="atv9.questao4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,19 +153,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cliente (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atv6.questao2.Cliente" />
-      <module name="padroes-software-etapa1-atv2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="atv6.questao2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="atv9.questao3.Main" />
       <module name="padroes-software-etapa1-atv2" />
@@ -246,15 +168,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Aplicacao" />
         <item itemvalue="Application.BingoSystemApp" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.Cliente (1)" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -292,9 +214,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
